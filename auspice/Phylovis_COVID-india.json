@@ -43,8 +43,8 @@
       }
     ],
     "display_defaults": {
-      "branch_label": "none",
-      "color_by": "clade_membership",
+      "branch_label": "clade_membership",
+      "color_by": "state",
       "geo_resolution": "state",
       "map_triplicate": true
     },
@@ -319,7 +319,6 @@
     ],
     "maintainers": [
       {
-        "img": "http://vinodscaria.rnabiology.org/_/rsrc/1502614604610/config/customLogo.gif",
         "name": "Vinod Scaria Lab at CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB), Delhi"
       }
     ],
