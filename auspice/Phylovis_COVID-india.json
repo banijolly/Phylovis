@@ -43,7 +43,7 @@
       }
     ],
     "display_defaults": {
-      "branch_label": "clade_membership",
+      "branch_label": "clade",
       "color_by": "state",
       "geo_resolution": "state",
       "map_triplicate": true
