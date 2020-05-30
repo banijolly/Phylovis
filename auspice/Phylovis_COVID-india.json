@@ -4712,8 +4712,7 @@
                   {
                     "branch_attrs": {
                       "labels": {
-                        "aa": "ORF1b: A88V",
-                        "clade": "I"
+                        "aa": "ORF1b: A88V"
                       },
                       "mutations": {
                         "ORF1b": [
@@ -4757,7 +4756,7 @@
                             "value": "New Delhi"
                           },
                           "clade_membership": {
-                            "value": "I"
+                            "value": "unassigned"
                           },
                           "country": {
                             "value": "India"
@@ -4833,7 +4832,7 @@
                                 "value": "Lamuk Zaveri et al."
                               },
                               "clade_membership": {
-                                "value": "I"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "value": "India"
@@ -4892,7 +4891,7 @@
                                     "value": "Namami Gaur et al."
                                   },
                                   "clade_membership": {
-                                    "value": "I"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "value": "India"
@@ -4951,7 +4950,7 @@
                                         "value": "Chitra Pattabiraman et al."
                                       },
                                       "clade_membership": {
-                                        "value": "I"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "value": "India"
@@ -5004,7 +5003,7 @@
                                         "value": "Pramod Kumar et al."
                                       },
                                       "clade_membership": {
-                                        "value": "I"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "value": "India"
@@ -5039,7 +5038,7 @@
                                 "name": "NODE_0000054",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "I"
+                                    "value": "unassigned"
                                   },
                                   "div": 3.9962515025058694,
                                   "num_date": {
@@ -5065,7 +5064,7 @@
                             "name": "NODE_0000053",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "I"
+                                "value": "unassigned"
                               },
                               "div": 3.9962515025057987,
                               "num_date": {
@@ -5128,7 +5127,7 @@
                                     "value": "Pramod Kumar et al."
                                   },
                                   "clade_membership": {
-                                    "value": "I"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "value": "India"
@@ -5195,7 +5194,7 @@
                                             "value": "Sofia Banu et al."
                                           },
                                           "clade_membership": {
-                                            "value": "I"
+                                            "value": "unassigned"
                                           },
                                           "country": {
                                             "value": "India"
@@ -5238,7 +5237,7 @@
                                             "value": "Pramod Kumar et al."
                                           },
                                           "clade_membership": {
-                                            "value": "I"
+                                            "value": "unassigned"
                                           },
                                           "country": {
                                             "value": "India"
@@ -5273,7 +5272,7 @@
                                     "name": "NODE_0000063",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "I"
+                                        "value": "unassigned"
                                       },
                                       "div": 5.994454548431525,
                                       "num_date": {
@@ -5317,7 +5316,7 @@
                                                 "value": "Pramod Kumar et al."
                                               },
                                               "clade_membership": {
-                                                "value": "I"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "value": "India"
@@ -5363,7 +5362,7 @@
                                                 "value": "Mumbai"
                                               },
                                               "clade_membership": {
-                                                "value": "I"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "value": "India"
@@ -5398,7 +5397,7 @@
                                         "name": "NODE_0000062",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "I"
+                                            "value": "unassigned"
                                           },
                                           "div": 4.995351723872189,
                                           "num_date": {
@@ -5441,7 +5440,7 @@
                                                 "value": "Pramod Kumar et al."
                                               },
                                               "clade_membership": {
-                                                "value": "I"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "value": "India"
@@ -5484,7 +5483,7 @@
                                                 "value": "Pramod Kumar et al."
                                               },
                                               "clade_membership": {
-                                                "value": "I"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "value": "India"
@@ -5519,7 +5518,7 @@
                                         "name": "NODE_0000064",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "I"
+                                            "value": "unassigned"
                                           },
                                           "div": 4.995351723872189,
                                           "num_date": {
@@ -5545,7 +5544,7 @@
                                     "name": "NODE_0000060",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "I"
+                                        "value": "unassigned"
                                       },
                                       "div": 4.995351723872118,
                                       "num_date": {
@@ -5571,7 +5570,7 @@
                                 "name": "NODE_0000058",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "I"
+                                    "value": "unassigned"
                                   },
                                   "div": 4.995351723872047,
                                   "num_date": {
@@ -5595,6 +5594,9 @@
                               },
                               {
                                 "branch_attrs": {
+                                  "labels": {
+                                    "clade": "I"
+                                  },
                                   "mutations": {
                                     "nuc": [
                                       "C23929T"
@@ -17398,7 +17400,7 @@
                             "name": "NODE_0000061",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "I"
+                                "value": "unassigned"
                               },
                               "div": 4.995351723871976,
                               "num_date": {
@@ -17423,7 +17425,7 @@
                         "name": "NODE_0000057",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "I"
+                            "value": "unassigned"
                           },
                           "div": 3.996251502505728,
                           "num_date": {
@@ -17448,7 +17450,7 @@
                     "name": "NODE_0000056",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "I"
+                        "value": "unassigned"
                       },
                       "div": 2.997187194057124,
                       "num_date": {
