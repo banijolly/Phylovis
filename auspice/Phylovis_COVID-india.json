@@ -37,6 +37,10 @@
           [
             "B4",
             "#F5B13F"
+          ],
+          [
+            "B1",
+            "#EB5733"
           ]
         ],
         "title": "Clade",
@@ -398,6 +402,10 @@
             "latitude": 22.41540825,
             "longitude": 72.03149704
           },
+          "Gujarat ": {
+            "latitude": 22.41540825,
+            "longitude": 72.03149704
+          },
           "Haryana": {
             "latitude": 29.0,
             "longitude": 76.0
@@ -435,6 +443,10 @@
             "longitude": 75.5004841
           },
           "Rajasthan": {
+            "latitude": 26.8105777,
+            "longitude": 73.7684
+          },
+          "Rajasthan ": {
             "latitude": 26.8105777,
             "longitude": 73.7684
           },
