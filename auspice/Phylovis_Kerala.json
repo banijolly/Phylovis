@@ -107,7 +107,7 @@
     "description": "A unique partnership between the Department of Health & Family Welfare, Government of Kerala, National health Mission Kerala, CSIR Institute of Genomics & Integrative Biology (CSIR-IGIB) and various clinical and public health centers in Kerala aimed at providing insights into the genetic epidemiology of COVID-19 in Kerala.\n\n",
     "display_defaults": {
       "branch_label": "clade",
-      "color_by": "clade_membership",
+      "color_by": "district",
       "geo_resolution": "district",
       "map_triplicate": true
     },
