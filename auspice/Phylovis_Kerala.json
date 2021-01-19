@@ -126,7 +126,7 @@
       "legacy_clade_membership",
       "state",
       "sex",
-      "status",
+      "district",
       "age",
       "recency",
       "subclade_membership"
